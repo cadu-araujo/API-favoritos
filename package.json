@@ -1,0 +1,8 @@
+{
+  "name": "favoritos-json-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
